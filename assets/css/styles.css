@@ -221,6 +221,7 @@ img {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
   font-family: 'Sacramento', cursive;
+   text-align: center;
 }
 
 .home__title-color {
